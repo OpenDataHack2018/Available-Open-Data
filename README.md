@@ -10,23 +10,23 @@
 <li>ERA5 data Samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/">here</a>
 </ul>
 
+<!--
 <h3>Seasonal Forecasts</H3>
 <ul>
 <li><a href="http://climate.copernicus.eu/s/charts/c3s_seasonal/">Charts</a> including: MSLP charts, SST maps and NINO-index timeseries, 2m Temperature charts, 850mb Temperature charts, Geopotential height at 500Pa  charts, Precipitation charts. The forecasts are updated every month and cover a time range of 6 months.
 <li>Archived data in the Climate Data Store
 <li>Seasonal forecast data Samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/">here</a>
 </ul>        
+-->
 
 <h3>Data from the Sectoral Information System (SIS)</h3>
 <ul>
 <li>WATER Sector: End-to-end Demonstrator for improved decision making in the water sector in Europe (EDgE) and Service for Water Indicators in Climate Change Adaption (SWICCA)
 <li>ENERGY Sector: European Climatic Energy Mixes (ECEM) and CLIM4ENERGY
 <li>INSURANCE Sector: Wind Storm Climate Service (WISC)
-<li>AGRICULTURE & FORESTRY Sector: Agricultural Climate Advisory services (AgriCLASS)
-<li>HEALTH and INFRASTRUCTURE Sector: Climate Information for European Cities (Urban SIS)
 </ul>
 
-<h3>Monthly State of Climate:</h3>
+<h3>Monthly State of Climate (Maps):</h3>
 <ul>
   <li>Average surface air temperature monthly maps:
         Latest monthly map
@@ -53,7 +53,7 @@
 
 
 
-<h1>From the ECMWF Copernicus Atmosphere Monitoring Service (C3S)</H1>
+<h1>From the ECMWF Copernicus Atmosphere Monitoring Service (CAMS)</H1>
 
 <h3>Global CAMS data:</h3>
 
@@ -129,14 +129,8 @@
     MACC Reanalysis Monthly Mean fields
     MACC Reanalysis Monthly Mean Total Columns
 
-<h1>From Copernicus Emergency Management Services</H1>
-<h3>GEFF</h3>
-<h3>ECMWF Web Mapping Service (WMS)</h3>
-  <ul>
-  <li>Weather Forecast Maps
-  <li>Copernicus Atmosphere Monitoring Service Maps
-  <li>Features
-  </ul>
+
+
 <h3>ECMWF WCS (web covering service) - not needed?</h3>
 
 
