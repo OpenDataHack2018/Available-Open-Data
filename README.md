@@ -81,7 +81,7 @@
         WMS and WCS API services (maps and data download - account needed)
           </ul>
     <li>CAMS regional reanalyses data are available online. 
-  <li>Regional CAMS Data SAMPLES here
+  <li>CAMS regional ensemble data sample at 3000 European locations available <a href="https://github.com/OpenDataHack2018/Available-Open-Data/blob/master/CAMS-regional-air-quality.md">here</a>.
     </ul>
     
 <h3>Supplementary Products: Solar and UV Radiation data:</h3>    
