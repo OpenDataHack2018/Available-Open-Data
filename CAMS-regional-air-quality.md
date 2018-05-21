@@ -16,7 +16,7 @@ The details about locations can be found in [this file](https://github.com/OpenD
 # Data format
 
   - Files contain air quality forecasts for N of main European cities
-  - Drag and drop images (requires your Dropbox account be linked)
+
   
 ```sh
 ID,Date,Time,AQI,O3,NO2,SO2,CO,PM10,PM25
