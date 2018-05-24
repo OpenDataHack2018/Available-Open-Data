@@ -1,4 +1,4 @@
-# Available-Open-Data
+# Available-Open-Data - Still under development!
 
 <h1>From the ECMWF Copernicus Climate Change Service (C3S)</H1>
 
@@ -6,8 +6,8 @@
 <ul>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/What+is+ERA5">What is ERA5</a>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/ERA5+data+documentation">ERA5 documentation</a>
-<li>Download ERA5 data via the Climate Data Store
-<li>ERA5 data Samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/">here</a>
+<li>Download ERA5 data via the Climate Data Store - Soon to come!
+<li>ERA5 data Samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/OpenDataHack2018/">here</a>
 </ul>
 
 <!--
@@ -40,26 +40,24 @@
  </ul>       
 
 <h3>Essential Climate Variables (ECVs) - Soon available through the CDS</h3>
-
-    Sea ice concentration, sea ice edge and type, sea ice thickness
-    Sea level
-    Sea surface temperature (SST)
-    Ozone
-    Total column and vertical aerosol information
-    Carbon dioxide and methane
-    Soil moisture
-    Glaciers and ice caps
-    Surface albedo, leaf area index (LAI) and the fraction of absorbed photosynthetic active radiation (FAPAR)
-
-
+<UL>
+    <li>Sea ice concentration, sea ice edge and type, sea ice thickness
+    <li>Sea level
+    <li>Sea surface temperature (SST)
+    <li>Ozone
+    <li>Total column and vertical aerosol information
+    <li>Carbon dioxide and methane
+    <li>Soil moisture
+    <li>Glaciers and ice caps
+    <li>Surface albedo, leaf area index (LAI) and the fraction of absorbed photosynthetic active radiation (FAPAR)
+</ul>
 
 <h1>From the ECMWF Copernicus Atmosphere Monitoring Service (CAMS)</H1>
 
 <h3>Global CAMS data:</h3>
 
 <ul>    
-  <li>Latest three days of Real-Time CAMS global daily analysis and forecast data are available through the FTP Dissemination server.
-    <li>CAMS Global archived analysis and forecast daily data (6 hourly analysis and 3 hourly up-to 5 days forecast data since 05/07/2012, available with a 5-day delay, approximately 40km horizontal resolution (T511 spectral) on 60 vertical levels from the surface up to 0.1 hPa, are available for download through:
+    <li>CAMS <strong>Global archived analysis and forecast daily data </strong> (6 hourly analysis and 3 hourly up-to 5 days forecast data since 05/07/2012, available with a 5-day delay, approximately 40km horizontal resolution (T511 spectral) on 60 vertical levels from the surface up to 0.1 hPa, are available for download through:
         <ul>
         <li>the ECMWF data server web interface: http://apps.ecmwf.int/datasets/data/cams-nrealtime/levtype=sfc/ , one month at a time
         <li>WebAPI, allowing users to download Global CAMS data in a programmatic way (using Python - example scripts are available)
