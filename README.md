@@ -1,8 +1,11 @@
 # Available-Open-Data - Still under development!
 
-<h1>From the ECMWF Copernicus Climate Change Service (C3S)</H1>
+<h1>From the ECMWF Copernicus Climate Change Service (C3S)</a></H1>
+<h1><a href="#CAMS">From the ECMWF Copernicus Atmosphere Monitoring Service (CAMS)</H1>
+<hr>
 
-<h3>ERA5 - Global Climate Reanalysis data (2008-present available now)</h3>
+
+<h3>C3S ERA5 - Global Climate Reanalysis data (2008-present available now)</h3>
 <ul>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/What+is+ERA5">What is ERA5</a>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/ERA5+data+documentation">ERA5 documentation</a>
@@ -19,27 +22,39 @@
 </ul>        
 -->
 
-<h3>Data from the Sectoral Information System (SIS)</h3>
+<h3>C3S Data from the Sectoral Information System (SIS)</h3>
 <ul>
-<li>WATER Sector: End-to-end Demonstrator for improved decision making in the water sector in Europe (EDgE) and Service for Water Indicators in Climate Change Adaption (SWICCA)
-<li>ENERGY Sector: European Climatic Energy Mixes (ECEM) and CLIM4ENERGY
-<li>INSURANCE Sector: Wind Storm Climate Service (WISC)
+<li>WATER Sector: 
+  <ul>
+    <li><a href="http://edge.climate.copernicus.eu">End-to-end Demonstrator for improved decision making in the water sector in Europe (EDgE)</a>: EDgE is producing a climate information system <a href"http://edge.climate.copernicus.eu/Tools/">"Map Viewer"</a> to allow end-users to find, understand and access the range of climatological and hydrological data and indicators. 
+      <li><a href="http://swicca.eu/">Service for Water Indicators in Climate Change Adaption (SWICCA)</a> offers readily available <a href="http://swicca.eu/climate-impacts-maps/">climate-impact data, graphs and maps</a> to speed up the workflow in climate-change adaptation of water management across Europe.  
+        </ul>
+<li>ENERGY Sector: 
+  <ul>
+    <li><a href="http://ecem.climate.copernicus.eu/">European Climatic Energy Mixes (ECEM)</a> is developing a <a href="http://ecem.climate.copernicus.eu/demonstrator/">Demonstrator</a> to enable the energy industry and policy makers to assess how well energy supply will meet demand in Europe over different time horizons, focusing on the role climate has on energy supply and demand.
+      <li><a href="http://clim4energy.climate.copernicus.eu/">CLIM4ENERGY</a> provides climate change indicators tailored for the energy sector. The <a href="http://c4e-visu.ipsl.upmc.fr/">Clim4energy visualization portal</a> is online, in beta-test. 
+        </ul>
+<li>INSURANCE Sector: <a href="">Wind Storm Information Service (WISC)</a> provides historic storm data over Europe from 1940 onwards.
 </ul>
 
-<h3>Monthly State of Climate (Maps):</h3>
+<h3>C3S Monthly State of Climate (Maps):</h3>
 <ul>
   <li>Average surface air temperature monthly maps:
-        Latest monthly map
-        Archived maps from August 2015.
+        <ul>
+          <li><a href="https://climate.copernicus.eu/resources/data-analysis/average-surface-air-temperature-analysis">Latest monthly map</a>
+    <li><a href="https://climate.copernicus.eu/resources/data-analysis/average-surface-air-temperature-analysis/monthly-maps/">Archived maps from August 2015.</a>
+      </ul>
     <li>Monthly sea-ice maps:
-        Latest Monthly Maps
-        Archived maps from March 2017.
+        <ul><li><a href="https://climate.copernicus.eu/products/monthly-sea-ice-maps">Latest Monthly Maps</a>
+        <li><a href="https://climate.copernicus.eu/sea-ice-monthly-maps">Archived maps from March 2017.</a>
+      </ul>
     <li>Monthly summaries of precipitation, relative humidity and soil moisture:
-        Latest Monthly Maps
-        Archived maps from April 2017
+        <ul><li><a href="https://climate.copernicus.eu/monthly-summaries-precipitation-relative-humidity-and-soil-moisture">Latest Monthly Maps</a>
+        <li><a href="https://climate.copernicus.eu/precipitation-relative-humidity-and-soil-moisture-monthly-maps">Archived maps from April 2017</a>
+          </ul>
  </ul>       
 
-<h3>Essential Climate Variables (ECVs) - Soon available through the CDS</h3>
+<h3>C3S Essential Climate Variables (ECVs) - Soon available through the CDS</h3>
 <UL>
     <li>Sea ice concentration, sea ice edge and type, sea ice thickness
     <li>Sea level
@@ -52,9 +67,9 @@
     <li>Surface albedo, leaf area index (LAI) and the fraction of absorbed photosynthetic active radiation (FAPAR)
 </ul>
 
-<h1>From the ECMWF Copernicus Atmosphere Monitoring Service (CAMS)</H1>
+<a name="CAMS"></a>
 
-<h3>Global CAMS data:</h3>
+<h3>CAMS Global data:</h3>
 
 <ul>    
     <li>CAMS <strong>Global archived analysis and forecast daily data </strong> (6 hourly analysis and 3 hourly up-to 5 days forecast data since 05/07/2012, available with a 5-day delay, approximately 40km horizontal resolution (T511 spectral) on 60 vertical levels from the surface up to 0.1 hPa, are available for download through:
@@ -70,7 +85,7 @@
 <li>    NEW! 27 Mar 2018 The first 5 years of the CAMS reanalysis (2003-2007) now available! By the end of 2018, the CAMS Reanalysis data will cover the period January 2003 to near real time (NRT). For further details please see CAMS Reanalysis data documentation. Data download is through Web-API.
 </ul>
 
-<h3>Regional CAMS data (European domain, 25W/50E/30N/70N):</h3>
+<h3>CAMS Regional data (European domain, 25W/50E/30N/70N):</h3>
 <ul>
   <li>All CAMS regional analysis and forecast daily data (archived since 10/2015 and less than 30 days old data, approximately 10km horizontal resolution from surface up to 5000m) are available for download either through:
         <ul><li>CAMS Regional data web interface for online (less than 30 days old) and Archive (older than 30 days) data access. 
@@ -82,7 +97,7 @@
   <li>CAMS regional ensemble data sample at 3000 European locations available <a href="https://github.com/OpenDataHack2018/Available-Open-Data/blob/master/CAMS-regional-air-quality.md">here</a>.
     </ul>
     
-<h3>Supplementary Products: Solar and UV Radiation data:</h3>    
+<h3>CAMS Supplementary Products: Solar and UV Radiation data:</h3>    
 <ul>     
   <li>Solar radiation (2004 - present with up to 2 days delay) - global clear-sky solar irradiance and Meteosat satellite field-of-view coverage total-sky surface solar irradiation
         <ul>
@@ -100,7 +115,7 @@
             </ul>
           </ul>
       </ul>
-<h3>Supplementary Products: Emission products, climate forcings and Greenhouse Gases (GHG) flux inversions data:</h3>
+<h3>CAMS Supplementary Products: Emission products, climate forcings and Greenhouse Gases (GHG) flux inversions data:</h3>
     <ul>
   <li>Anthropogenic emissions (2003-2009 European data on request and 1960-2020 global data through ECCAD)
     2003-2012 Climate forcings (e.g. aerosol direct/indirect forcing) through the ECMWF data server web interface: http://apps.ecmwf.int/datasets/data/cams-climate-forcings/
@@ -115,8 +130,7 @@
     <li>Greenhouse Gases (GHG) flux inversions:
         <br>Carbon Dioxide (1979-2015), Methane (2000-2015) and Nitrous Oxide (1996-2015) through the ECMWF data server web interface: http://apps.ecmwf.int/datasets/data/cams-ghg-inversions/
              </ul>
-<h3>    Forecast and Analysis Charts
-    Forecast and Analysis Maps</h3>
+<h3>CAMS Forecast and Analysis Maps</h3>
 
     CAMS Monitoring Plots
     Near-real-time Analysis and Forecast of reactive gases (C-IFS)
