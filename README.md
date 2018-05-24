@@ -95,8 +95,7 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
 <h3>CAMS Global Fire Monitoring data</h3>
     <ul>
     <li>GFAS (Global Fire Assimilation System) - Get a data sample using the ECMWF data server web interface:http://apps.ecmwf.int/datasets/data/cams-gfas/
-            
-          </ul>
+    </ul>
     
 <h3>CAMS Forecast and Analysis Maps</h3>
 
