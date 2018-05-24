@@ -22,7 +22,7 @@
 </ul>        
 -->
 
-<h3>C3S Data from the Sectoral Information System (SIS) for the WATER sector, ENERGY sector and INSURANCE sector</h3>
+<h3>C3S Data from the Sectoral Information System (SIS) for the WATER, ENERGY and INSURANCE sectors</h3>
 <ul>
 <li><a href="http://edge.climate.copernicus.eu">End-to-end Demonstrator for improved decision making in the water sector in Europe (EDgE)</a>: EDgE is producing a climate information system <a href"http://edge.climate.copernicus.eu/Tools/">"Map Viewer"</a> to allow end-users to find, understand and access the range of climatological and hydrological data and indicators. 
 
