@@ -2,13 +2,13 @@
 
 <P>Below are listed some selected Open Climate data and services from both the Copernicus Climate Change Service (C3S) and the Copernicus Atmosphere Monitoring Service (CAMS) which #OpenDataHack2018 participants may find most useful. Data Samples are also provided.
 
-<blockquote><strong>Good-to-Know: What is the difference between Analysis, Forecast and Reanalysis? </strong>
+<blockquote><strong><u>Good-to-Know: What is the difference between Analysis, Forecast and Reanalysis? </u></strong>
 <p>
-An analysis, of the atmospheric conditions, is a blend of observations with a previous forecast. An analysis can only provide instantaneous parameters.
+  An <strong>analysis</strong>, of the atmospheric conditions, is a blend of observations with a previous forecast. An analysis can only provide instantaneous parameters.
 <P>
-A forecast starts with an analysis at a specific time (the 'initialization time'), and a model computes the atmospheric conditions for many 'forecast steps', at increasing 'validity times', into the future. A forecast can provide instantaneous parameters (e.g. the temperature at the validity times), accumulated parameters (e.g. precipitation in a certain period up to the validity times) and min/max parameters (e.g. min/max of 2 metre temperature in a certain period up to the validity times).
+  A <strong>forecast</strong> starts with an analysis at a specific time (the 'initialization time'), and a model computes the atmospheric conditions for many 'forecast steps', at increasing 'validity times', into the future. A forecast can provide instantaneous parameters (e.g. the temperature at the validity times), accumulated parameters (e.g. precipitation in a certain period up to the validity times) and min/max parameters (e.g. min/max of 2 metre temperature in a certain period up to the validity times).
 <p>
-A reanalysis gives a numerical description of the recent climate, produced by combining models with observations. A reanalysis typically extends over several decades or longer, and covers the entire globe from the Earth’s surface to well above the stratosphere. Reanalysis products are used extensively in climate research and services, including for monitoring and comparing current climate conditions with those of the past, identifying the causes of climate variations and change, and preparing climate predictions.   
+A <strong>reanalysis</strong> gives a numerical description of the recent climate, produced by combining models with observations. A reanalysis typically extends over several decades or longer, and covers the entire globe from the Earth’s surface to well above the stratosphere. Reanalysis products are used extensively in climate research and services, including for monitoring and comparing current climate conditions with those of the past, identifying the causes of climate variations and change, and preparing climate predictions.   
 </blockquote>
   
 <hr>
