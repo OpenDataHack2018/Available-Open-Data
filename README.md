@@ -1,7 +1,7 @@
 # Available-Open-Data - Still under development!
 
-<h1>From the ECMWF Copernicus Climate Change Service (C3S)</a></H1>
-<h1><a href="#CAMS">From the ECMWF Copernicus Atmosphere Monitoring Service (CAMS)</H1>
+<h3><a href="#C3S">From the ECMWF Copernicus Climate Change Service (C3S)</a></H3>
+<h3><a href="#CAMS">From the ECMWF Copernicus Atmosphere Monitoring Service (CAMS)</a></H3>
 <hr>
 
 
@@ -22,19 +22,17 @@
 </ul>        
 -->
 
-<h3>C3S Data from the Sectoral Information System (SIS)</h3>
+<h3>C3S Data from the Sectoral Information System (SIS) for the WATER sector, ENERGY sector and INSURANCE sector</h3>
 <ul>
-<li>WATER Sector: 
-  <ul>
-    <li><a href="http://edge.climate.copernicus.eu">End-to-end Demonstrator for improved decision making in the water sector in Europe (EDgE)</a>: EDgE is producing a climate information system <a href"http://edge.climate.copernicus.eu/Tools/">"Map Viewer"</a> to allow end-users to find, understand and access the range of climatological and hydrological data and indicators. 
-      <li><a href="http://swicca.eu/">Service for Water Indicators in Climate Change Adaption (SWICCA)</a> offers readily available <a href="http://swicca.eu/climate-impacts-maps/">climate-impact data, graphs and maps</a> to speed up the workflow in climate-change adaptation of water management across Europe.  
-        </ul>
-<li>ENERGY Sector: 
-  <ul>
-    <li><a href="http://ecem.climate.copernicus.eu/">European Climatic Energy Mixes (ECEM)</a> is developing a <a href="http://ecem.climate.copernicus.eu/demonstrator/">Demonstrator</a> to enable the energy industry and policy makers to assess how well energy supply will meet demand in Europe over different time horizons, focusing on the role climate has on energy supply and demand.
-      <li><a href="http://clim4energy.climate.copernicus.eu/">CLIM4ENERGY</a> provides climate change indicators tailored for the energy sector. The <a href="http://c4e-visu.ipsl.upmc.fr/">Clim4energy visualization portal</a> is online, in beta-test. 
-        </ul>
-<li>INSURANCE Sector: <a href="">Wind Storm Information Service (WISC)</a> provides historic storm data over Europe from 1940 onwards.
+<li><a href="http://edge.climate.copernicus.eu">End-to-end Demonstrator for improved decision making in the water sector in Europe (EDgE)</a>: EDgE is producing a climate information system <a href"http://edge.climate.copernicus.eu/Tools/">"Map Viewer"</a> to allow end-users to find, understand and access the range of climatological and hydrological data and indicators. 
+
+<li><a href="http://swicca.eu/">Service for Water Indicators in Climate Change Adaption (SWICCA)</a> offers readily available <a href="http://swicca.eu/climate-impacts-maps/">climate-impact data, graphs and maps</a> to speed up the workflow in climate-change adaptation of water management across Europe.  
+
+<li><a href="http://ecem.climate.copernicus.eu/">European Climatic Energy Mixes (ECEM)</a> is developing a <a href="http://ecem.climate.copernicus.eu/demonstrator/">Demonstrator</a> to enable the energy industry and policy makers to assess how well energy supply will meet demand in Europe over different time horizons, focusing on the role climate has on energy supply and demand.
+
+<li><a href="http://clim4energy.climate.copernicus.eu/">CLIM4ENERGY</a> provides climate change indicators tailored for the energy sector. The <a href="http://c4e-visu.ipsl.upmc.fr/">Clim4energy visualization portal</a> is online, in beta-test. 
+
+<li><a href="">Wind Storm Information Service (WISC)</a> provides historic storm data over Europe from 1940 onwards through the <a href="https://wisc.climate.copernicus.eu/wisc/#/explore">WISC Portal</a>.
 </ul>
 
 <h3>C3S Monthly State of Climate (Maps):</h3>
