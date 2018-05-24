@@ -1,11 +1,12 @@
-# Available-Open-Data - Still under development!
+# Available-Open-Data
 
-<h3><a href="#C3S">Selected data from the ECMWF Copernicus Climate Change Service (C3S): quality-assured information about the past, current and future states of the climate in Europe and worldwide.</a></H3>
-<h3><a href="#CAMS">Selected data from the ECMWF Copernicus Atmosphere Monitoring Service (CAMS): Air quality. Fire monitoring, aerosols... </a></H3>
+<P>Below are listed some selected Open Climate data and services from both the Copernicus Climate Change Service (C3S) and the Copernicus Atmosphere Monitoring Service (CAMS) which #OpenDataHack2018 participants may find most useful. Data Samples are also provided.
+<P>For all CAMS products, please check <a href="https://software.ecmwf.int/wiki/pages/viewpage.action?pageId=56659592">What data and charts are available through CAMS (Copernicus Atmosphere Monitoring Service)?</a>
+<P>For all C3S products, please check <a href="https://software.ecmwf.int/wiki/pages/viewpage.action?pageId=88257857">What data and maps are available through C3S (Copernicus Climate Change Service)?</a>
+<P>For access to other ECMWF Open Data products, please go <a href="http://apps.ecmwf.int/datasets/">here</a>.
 
 <hr>
 
-<a name="C3S"></a>
 <h3>C3S ERA5 - Global Climate Reanalysis data (2008-present available now)</h3>
 <ul>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/What+is+ERA5">What is ERA5</a>
@@ -13,15 +14,6 @@
 <li>Download ERA5 data via the Climate Data Store - Soon to come!
 <li>ERA5 data Samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/OpenDataHack2018/">here</a>
 </ul>
-
-<!--
-<h3>Seasonal Forecasts</H3>
-<ul>
-<li><a href="http://climate.copernicus.eu/s/charts/c3s_seasonal/">Charts</a> including: MSLP charts, SST maps and NINO-index timeseries, 2m Temperature charts, 850mb Temperature charts, Geopotential height at 500Pa  charts, Precipitation charts. The forecasts are updated every month and cover a time range of 6 months.
-<li>Archived data in the Climate Data Store
-<li>Seasonal forecast data Samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/">here</a>
-</ul>        
--->
 
 <h3>C3S Data from the Sectoral Information System (SIS) for the WATER, ENERGY and INSURANCE sectors</h3>
 <ul>
@@ -68,7 +60,7 @@
 
 <a name="CAMS"></a>
 
-<h3>CAMS Regional data (European domain, 25W/50E/30N/70N):</h3>
+<h3>CAMS Regional Air Quality data (European domain, 25W/50E/30N/70N):</h3>
 <ul>
   <li>All CAMS regional analysis and forecast daily data (archived since 10/2015 and less than 30 days old data, approximately 10km horizontal resolution from surface up to 5000m) 
   <li>CAMS regional reanalyses data are available online. 
@@ -76,7 +68,7 @@
     </ul>
     
 
-<h3>CAMS Global data: analysis, forecast and reanalysis</h3>
+<h3>CAMS Global Air Quality data: analysis, forecast and reanalysis</h3>
 
 <ul>
   
@@ -89,14 +81,13 @@
 </ul>
 
 
-<h3>CAMS Supplementary Products: Solar and UV Radiation data:</h3>    
+<h3>CAMS Solar and UV Radiation data:</h3>    
 <ul>     
-  <li>Solar radiation (2004 - present with up to 2 days delay) - global clear-sky solar irradiance and Meteosat satellite field-of-view coverage total-sky surface solar irradiation. This is a time series service, i.e., for one location per request only.
+  <li>Solar radiation (2004 - present with up to 2 days delay) - global clear-sky solar irradiance and Meteosat satellite field-of-view coverage total-sky surface solar irradiation. This is a time series service, i.e., for one location per request only. Download data <a href="http://www.soda-pro.com/web-services/radiation/cams-radiation-service">HERE</a>.
 </ul>
-<h3>CAMS Supplementary Products: Emission products, climate forcings and Greenhouse Gases (GHG) flux inversions data:</h3>
+
+<h3>CAMS Global Fire Monitoring data</h3>
     <ul>
-  <li>Anthropogenic emissions (2003-2009 European data on request and 1960-2020 global data through ECCAD)
-    2003-2012 Climate forcings (e.g. aerosol direct/indirect forcing) through the ECMWF data server web interface: http://apps.ecmwf.int/datasets/data/cams-climate-forcings/
     <li>GFAS (Global Fire Assimilation System)
         <ul>
           <li>Latest seven days of GFAS data are available through the FTP Dissemination server.
@@ -105,9 +96,7 @@
             <li>WebAPI, which is the method allowing users to download CAMS data in a programmatic way (using Python - example scripts are available).
               </ul>
           </ul>
-    <li>Greenhouse Gases (GHG) flux inversions:
-        <br>Carbon Dioxide (1979-2015), Methane (2000-2015) and Nitrous Oxide (1996-2015) through the ECMWF data server web interface: http://apps.ecmwf.int/datasets/data/cams-ghg-inversions/
-             </ul>
+    
 <h3>CAMS Forecast and Analysis Maps</h3>
 
     CAMS Monitoring Plots
@@ -121,6 +110,6 @@
 
 
 
-<h3>ECMWF WCS (web covering service) - not needed?</h3>
+<h3>ECMWF WCS (web covering service) </h3>
 
 
