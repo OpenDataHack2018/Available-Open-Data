@@ -110,7 +110,7 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
   <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/reanalysis/macc/macc_monthly_totalcolumns/">MACC Reanalysis Monthly Mean Total Columns</a>
 </ul>
 
-<h3>Other Services<h3>
+<h3>Other Services</h3>
 <ul>
   <li>CAMS-50 (WCS,WMS)
   <li>CAMS-Catalogue (CSW)
