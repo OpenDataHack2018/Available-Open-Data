@@ -94,23 +94,28 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
 
 <h3>CAMS Global Fire Monitoring data</h3>
     <ul>
-    <li>GFAS (Global Fire Assimilation System) - Get a data sample using the ECMWF data server web interface:http://apps.ecmwf.int/datasets/data/cams-gfas/
+    <li>GFAS (Global Fire Assimilation System) - Get a data sample using the ECMWF data server web interface:http://apps.ecmwf.int/datasets/data/cams-gfas/ - Documentation available <a href="https://software.ecmwf.int/wiki/display/CKB/CAMS++Global+Fire+Assimilation+System+%28GFAS%29+data+documentation">HERE</a>.
     </ul>
     
 <h3>CAMS Forecast and Analysis Maps</h3>
 
-    CAMS Monitoring Plots
-    Near-real-time Analysis and Forecast of reactive gases (C-IFS)
-    Forecast of UV Radiation
-    Fire Radiative Power (archive)
-    GHG forecasts
-    Forecast of Aerosols Optical Depth
-    MACC Reanalysis Monthly Mean fields
-    MACC Reanalysis Monthly Mean Total Columns
+<ul>
+  <li><a href="http://atmosphere.copernicus.eu/charts/cams_monitoring/">CAMS Monitoring Plots</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/nrt/nrt_fields/">Near-real-time Analysis and Forecast of reactive gases (C-IFS)</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/nrt/nrt_uvindex">Forecast of UV Radiation</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/nrt/fire_radiative_power/">Fire Radiative Power (archive)</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/nrt/nrt_fields_ghg/">GHG forecasts</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/nrt/nrt_opticaldepth/">Forecast of Aerosols Optical Depth</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/reanalysis/macc/macc_monthly_fields/">MACC Reanalysis Monthly Mean fields</a>
+  <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/reanalysis/macc/macc_monthly_totalcolumns/">MACC Reanalysis Monthly Mean Total Columns</a>
+</ul>
 
-
-
-<h3>ECMWF WCS (web covering service) </h3>
+<h3>Other Services<h3>
+<ul>
+  <li>CAMS-50 (WCS,WMS)
+  <li>CAMS-Catalogue (CSW)
+  <li>ECMWF WMS
+</ul>
 
 <HR>
 <P>For all CAMS products, please check <a href="https://software.ecmwf.int/wiki/pages/viewpage.action?pageId=56659592">What data and charts are available through CAMS (Copernicus Atmosphere Monitoring Service)?</a>
