@@ -107,6 +107,7 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
   <li><em>Workflows</em> that combine the output of tools and feed this as input into other tools to produce derived results
   <li><em>Applications</em> which are interactive web pages that allow users to interrogate the CDS through parameterisation; applications make use of workflows and selected data and products in the CDS.
 </ul>
+<p>The Toolbox is used to create web-based applications that draw on the datasets available in the CDS.
 <p>More detailed information about the Toolbox and the CDS in general is available from this <a href="https://www.ecmwf.int/en/newsletter/151/meteorology/climate-service-develops-user-friendly-data-store">ECMWF Newsletter article</a>.
 <P>Access the CDS Toolbox <a href="https://cds.climate.copernicus.eu/user/login?destination=/gaia-toolbox">HERE</a> (login account required)
  
