@@ -18,7 +18,8 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/What+is+ERA5">What is ERA5</a>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/ERA5+data+documentation">ERA5 documentation</a>
 <li>Download ERA5 data via the <a href="https://cds.climate.copernicus.eu/#!/home">Climate Data Store</a>
-<li>ERA5 data samples available <a href="https://github.com/OpenDataHack2018/Available-Open-Data/tree/master/C3S/ERA5">HERE</a>
+<li>ERA5 data samples available <a href="https://github.com/OpenDataHack2018/Available-Open-Data/tree/master/C3S/ERA5">HERE</a> in csv format. 
+<li>Plotting scripts also available <a href="https://github.com/OpenDataHack2018/Available-Open-Data/blob/master/ERA5_monthly_mean_data.ipynb">HERE</a>.
 </ul>
 
 <h3>C3S Data from the Sectoral Information System (SIS) for the WATER, ENERGY and INSURANCE sectors</h3>
