@@ -101,7 +101,7 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
 
 <h3>Other Services - CDS Toolbox</h3>
 <P>What is the CDS Toolbox?
-  The toolbox is a catalogue of software tools that can be classified as:
+  <P>The toolbox is a catalogue of software tools that can be classified as:
 <ul>
   <li><em>Tools</em> that perform basic operations on data, such as computation of statistics, sub-setting, averaging, value at points, etc
   <li><em>Workflows</em> that combine the output of tools and feed this as input into other tools to produce derived results
