@@ -1,4 +1,4 @@
-# Available-Open-Data
+# Available-Open-Data and CDS Toolbox
 
 <P>Below are listed some selected Open Climate data and services from both the Copernicus Climate Change Service (C3S) and the Copernicus Atmosphere Monitoring Service (CAMS) which #OpenDataHack2018 participants may find most useful. Data Samples are also provided.
 
@@ -99,6 +99,17 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
   <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/reanalysis/macc/macc_monthly_totalcolumns/">MACC Reanalysis Monthly Mean Total Columns</a>
 </ul>
 
+<h3>Other Services - CDS Toolbox</h3>
+<P>What is the CDS Toolbox?
+  The toolbox is a catalogue of software tools that can be classified as:
+<ul>
+  <li><em>Tools</em> that perform basic operations on data, such as computation of statistics, sub-setting, averaging, value at points, etc
+  <li><em>Workflows</em> that combine the output of tools and feed this as input into other tools to produce derived results
+  <li><em>Applications</em> which are interactive web pages that allow users to interrogate the CDS through parameterisation; applications make use of workflows and selected data and products in the CDS.
+</ul>
+<p>More detailed information about the Toolbox and the CDS in general is available from this <a href="https://www.ecmwf.int/en/newsletter/151/meteorology/climate-service-develops-user-friendly-data-store">ECMWF Newsletter article</a>.
+<P>Access the CDS Toolbox <a href="https://cds.climate.copernicus.eu/user/login?destination=/gaia-toolbox">HERE</a> (login account required)
+ 
 <h3>Other Services - ECMWF WMS</h3>
 <P>The WMS service operated by ECMWF is part of the ecCharts services to provide forecast weather maps to its users. The service is based on an in-house developed Python package translating WMS requests into the internal request to generate maps which is based on the Magics/Metview parameter language. Currently the serviceprovides WMS version 1.1.1 and 1.3.1. Access is controlled through tokens which are restricted to ranges of IP addresses. The token “public” contains, besides selected weather forecast maps and maps from the Copernicus Atmosphere Monitoring Service (CAMS).</P>
 
