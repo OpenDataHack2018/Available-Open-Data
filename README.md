@@ -1,4 +1,4 @@
-# Available-Open-Data - Under construction
+# Available-Open-Data
 
 <P>Below are listed some selected Open Climate data and services from both the Copernicus Climate Change Service (C3S) and the Copernicus Atmosphere Monitoring Service (CAMS) which #OpenDataHack2018 participants may find most useful. Data Samples are also provided.
 
@@ -17,8 +17,8 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
 <ul>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/What+is+ERA5">What is ERA5</a>
 <li><a href="https://software.ecmwf.int/wiki/display/CKB/ERA5+data+documentation">ERA5 documentation</a>
-<li>Download ERA5 data via the Climate Data Store - Soon to come!
-<li>ERA5 data samples available <a href="ftp://ftp.ecmwf.int/pub/copsup/OpenDataHack2018/">HERE</a>
+<li>Download ERA5 data via the <a href="https://cds.climate.copernicus.eu/#!/home">Climate Data Store</a>
+<li>ERA5 data samples available <a href="https://github.com/OpenDataHack2018/Available-Open-Data/tree/master/C3S/ERA5">HERE</a>
 </ul>
 
 <h3>C3S Data from the Sectoral Information System (SIS) for the WATER, ENERGY and INSURANCE sectors</h3>
@@ -51,18 +51,7 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
           </ul>
  </ul>       
 
-<h3>C3S Essential Climate Variables (ECVs) - Soon available through the CDS</h3>
-<UL>
-    <li>Sea ice concentration, sea ice edge and type, sea ice thickness
-    <li>Sea level
-    <li>Sea surface temperature (SST)
-    <li>Ozone
-    <li>Total column and vertical aerosol information
-    <li>Carbon dioxide and methane
-    <li>Soil moisture
-    <li>Glaciers and ice caps
-    <li>Surface albedo, leaf area index (LAI) and the fraction of absorbed photosynthetic active radiation (FAPAR)
-</ul>
+<h3>Some C3S Essential Climate Variables (ECVs) available through the <a href="https://cds.climate.copernicus.eu/#!/home">Climate Data Store</a></h3>
 
 <a name="CAMS"></a>
 
@@ -110,12 +99,10 @@ A <strong>reanalysis</strong> gives a numerical description of the recent climat
   <li><a href="http://macc.copernicus-atmosphere.eu/d/services/gac/reanalysis/macc/macc_monthly_totalcolumns/">MACC Reanalysis Monthly Mean Total Columns</a>
 </ul>
 
-<h3>Other Services</h3>
-<ul>
-  <li>CAMS-50 (WCS,WMS)
-  <li>CAMS-Catalogue (CSW)
-  <li>ECMWF WMS
-</ul>
+<h3>Other Services - ECMWF WMS</h3>
+<P>The WMS service operated by ECMWF is part of the ecCharts services to provide forecast weather maps to its users. The service is based on an in-house developed Python package translating WMS requests into the internal request to generate maps which is based on the Magics/Metview parameter language. Currently the serviceprovides WMS version 1.1.1 and 1.3.1. Access is controlled through tokens which are restricted to ranges of IP addresses. The token “public” contains, besides selected weather forecast maps and maps from the Copernicus Atmosphere Monitoring Service (CAMS).</P>
+
+  
 
 <HR>
 <P>For all CAMS products, please check <a href="https://software.ecmwf.int/wiki/pages/viewpage.action?pageId=56659592">What data and charts are available through CAMS (Copernicus Atmosphere Monitoring Service)?</a>
