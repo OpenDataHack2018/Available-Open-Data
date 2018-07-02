@@ -1,3 +1,8 @@
+
+```diff
+- SAMPLE DATASET IS NO LONGER AVAILABLE. 
+```
+
 # Regional air quality forecasts at major European cities
 
 This sample dataset contains extracted hourly forecasts up to three days ahead of the main pollutants:
