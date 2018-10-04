@@ -20,9 +20,7 @@ The details about locations can be found in [this file](https://github.com/OpenD
 
 Sample data covering period from Nov 2017 to May 2018 is available on the public FTP server:
 
-```sh
 ftp://ftp.ecmwf.int/pub/macc/atmoshack
-```
 
 Files are named as
 
