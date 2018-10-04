@@ -1,8 +1,3 @@
-
-```diff
-- SAMPLE DATASET IS NO LONGER AVAILABLE. 
-```
-
 # Regional air quality forecasts at major European cities
 
 This sample dataset contains extracted hourly forecasts up to three days ahead of the main pollutants:
@@ -26,7 +21,7 @@ The details about locations can be found in [this file](https://github.com/OpenD
 Sample data covering period from Nov 2017 to May 2018 is available on the public FTP server:
 
 ```sh
-ftp://ftp.ecmwf.int/pub/copsup/OpenDataHack2018/cams/regional/data/
+ftp://ftp.ecmwf.int/pub/macc/atmoshack
 ```
 
 Files are named as
